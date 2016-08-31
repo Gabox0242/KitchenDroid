@@ -15,7 +15,8 @@ Imagenes:<br>
 <br>
 
 <br>
-<h2>Ingles/English</h2><br>
+<h2>Ingles/English</h2>
+
 What is KitchenDroid?<br>
 It is a kitchen Android to developers of roms to facilitate them<br>
 much work as this has a much more intuitive interface and<br>
